@@ -69,3 +69,10 @@ p.capitalize:first-letter {
   border-left: 4px solid #74c9be;
 }
 
+.owner {
+	color: #147839;
+}
+
+.admin {
+	color: #942DA6;
+}
