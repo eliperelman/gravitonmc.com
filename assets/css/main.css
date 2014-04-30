@@ -689,3 +689,12 @@ p.capitalize:first-letter {
 .social {
 	margin-bottom: 10px;
 }
+
+.thumbnail h3:nth-child(3) {
+	margin-top: -6px;
+}
+
+h3 .label {
+	margin-top: -6px;
+	font-weight: bolder;
+}
